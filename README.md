@@ -109,15 +109,11 @@ ORDER BY s.id_socio, d.id_dependentes;
 
 ---
 
-## 📂 Nome sugerido do arquivo
-
-`modelagem_socio_dependente.sql`
-
----
-
 ## 👨‍💻 Autor
 
-Projeto desenvolvido para fins de estudo e prática de modelagem de banco de dados relacional.
+🚀 **JP**  
+Estudante de Análise e Desenvolvimento de Sistemas | Foco em Back-end e Infraestrutura
+🐙 GitHub: https://github.com/JP-GhOsT
 
 ---
 
