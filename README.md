@@ -112,7 +112,6 @@ ORDER BY s.id_socio, d.id_dependentes;
 ## 👨‍💻 Autor
 
 🚀 **JP**  
-Estudante de Análise e Desenvolvimento de Sistemas | Foco em Back-end e Infraestrutura
 🐙 GitHub: https://github.com/JP-GhOsT
 
 ---
